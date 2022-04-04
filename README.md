@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zjutzngz</h1>
-<h3 align="center">Zhejiang University of Technology Engineering Research Center of Intelligent Sensing and System, Ministry of Education</h3>
+<h3 align="center">Engineering Research Center of Intelligent Sensing and System, Ministry of Education</h3>
 
 - 🔭 OCT image denoising [1、BM3D](BM3D)
 
