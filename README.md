@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zjutzngz</h1>
+<h1 align="center">Hi 👋, I'm ZJUT-ERCISS</h1>
 <h3 align="center">Engineering Research Center of Intelligent Sensing and System, Ministry of Education</h3>
 
 - 🔭 OCT image denoising [1、BM3D](https://github.com/zjutzngz/BM3D) [2、SinGAN+CycleGAN](SinGAN+CycleGAN) [3、DnCNN](DnCNN) [4、fDnCNN](fDnCNN)
